@@ -1,0 +1,4 @@
+.readme:hover { 
+  filter: invert(100%) hue-rotate(90deg);
+  transition: 0.3s;
+}
